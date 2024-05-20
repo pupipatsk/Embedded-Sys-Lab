@@ -1,3 +1,5 @@
+# C
+
 # Prerequisites
 *.d
 
@@ -50,3 +52,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# -------------------- #
+
+# MacOS
+.DS_Store
+
+# Classroom
+*.pdf
+ยืมบอร์ด STM32.png
