@@ -6,7 +6,7 @@
 MacOS
 
 ``` zsh
-screen /dev/tty.usbmodem11203 115200, onclr
+screen /dev/tty.<tab> 115200, onclr
 ```
 Exit Screen: **Ctrl+A** then **Ctrl+\\**
 
